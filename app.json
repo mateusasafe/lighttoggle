@@ -1,0 +1,22 @@
+{
+  "name": "lighttoggle",
+  "displayName": "Light Toggle",
+  "expo": {
+    "name": "Light Toggle",
+    "slug": "lighttoggle",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#6A322F"
+    },
+    "android": {
+      "package": "com.light.toggle"
+    }
+  }
+}
